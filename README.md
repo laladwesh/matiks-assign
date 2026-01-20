@@ -257,43 +257,6 @@ After deploying backend, update `API_BASE_URL` in `frontend/App.js`:
 const API_BASE_URL = 'https://proactive-cooperation-production-3dbd.up.railway.app/';
 ```
 
-## Demo Video Guide
-
-### What to Show:
-
-1. **Backend Running** (30 seconds)
-   - Show terminal with backend logs
-   - Highlight "Seeded 10,000 users"
-   - Show random updates happening
-
-2. **Leaderboard Display** (1 minute)
-   - Open the app
-   - Scroll through leaderboard
-   - Show ranking with ties
-   - Demonstrate pull-to-refresh
-
-3. **Search Functionality** (1 minute)
-   - Switch to Search tab
-   - Type "rahul" slowly
-   - Show live results appearing
-   - Point out different ranks and ratings
-   - Show example from assignment:
-     - Rank 200: rahul (4600)
-     - Rank 800: rahul_burman (3900)
-     - Rank 800: rahul_mathur (3900)
-
-4. **Live Updates** (30 seconds)
-   - Search for a user
-   - Refresh to show rank changing
-   - Explain backend is updating scores
-
-### Recording Tips:
-- Use OBS Studio or Loom
-- Record in 1080p
-- Add voiceover explaining features
-- Keep video under 5 minutes
-- Upload to YouTube/Google Drive
-
 ## Testing
 
 ### Manual Testing
