@@ -1,0 +1,27 @@
+.DS_Store
+*.log
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backend
+backend/leaderboard-server
+backend/leaderboard-server.exe
+
+# Frontend
+frontend/node_modules/
+frontend/.expo/
+frontend/.expo-shared/
+frontend/dist/
+frontend/web-build/
+frontend/npm-debug.*
+frontend/*.jks
+frontend/*.p8
+frontend/*.p12
+frontend/*.key
+frontend/*.mobileprovision
+
+
+ARCHITECTURE.md
