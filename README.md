@@ -412,10 +412,10 @@ Notice:
 
 ### Submission Format
 ```
-GitHub Repo: https://github.com/laladwesh/matiks-leaderboard
-Demo Video: https://drive.google.com/...
-Live Demo: https://matiks-gilt.vercel.app/
-Backend API: https://proactive-cooperation-production-3dbd.up.railway.app/
+GitHub Repo: [Repo Link](https://github.com/laladwesh/matiks-assign)
+Demo Video: [Drive Link](https://drive.google.com/drive/folders/1GqueYkXRz4sYZK8FHAmh7QgusUL6fpHh?usp=sharing)
+Live Demo: [Deployed URL](https://matiks-gilt.vercel.app/)
+Backend API: [API URL](https://proactive-cooperation-production-3dbd.up.railway.app/)
 ```
 
 ---
